@@ -1,6 +1,6 @@
 # PostgreSQL & PGAdmin 4
 
-## Getting started
+## Démarrage de l'activité
 * Il faut cloner le repository et entrer dans le dossier avant de commencer le cours
 ```sh
 $ git clone https://github.com/Harrylepap/DONNEE1.git 
@@ -30,7 +30,7 @@ $ docker exec -it postgres_srv /bin/bash
 $ psql -U $POSTGRES_USER
 ```
 
-## Connexion à PostgreSQl sur integface graphique:
+## Connexion à PostgreSQl sur interface graphique:
 * **URL:** `http://localhost:5050`
 * **Username:** `PGADMIN_DEFAULT_EMAIL`
 * **Password:** `PGADMIN_DEFAULT_EMAIL`
